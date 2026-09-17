@@ -2,3 +2,4 @@
 - David Sangama Saenz
 - Leo Pacho Lopez
 - Esau Pecho Zarate
+- Patrick Freytas Tapullima
